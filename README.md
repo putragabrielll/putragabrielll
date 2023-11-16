@@ -1,1 +1,1 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/fulsep/fulsep/output/github-snake.svg#gh-light-mode-only)
+
