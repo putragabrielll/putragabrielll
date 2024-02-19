@@ -1,7 +1,7 @@
 
 # Hi, I'm Gabriel Putra! 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/putragabrielll/putragabrielll/blob/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
