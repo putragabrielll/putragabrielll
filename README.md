@@ -1,4 +1,5 @@
-# Hey there :wave:
+
+# Hi, I'm Gabriel Putra! 👋
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
