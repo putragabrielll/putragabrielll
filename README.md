@@ -9,7 +9,9 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I’m fullstack Web Developer with experience in the technology industry. Expertise in building complex and scalable web applications, from design and development to deployment and maintenance.
+
+Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, ReactJS, NodeJS, PHP, MySQL, PostgreSQL. Experienced in building various types of web applications, including news websites, e-wallets, and coffee shop websites. Has extensive knowledge of web infrastructure and is committed to building innovative, efficient and user-friendly web applications.
 
 ## Get in touch :coffee:
 
