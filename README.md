@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/putragabrielll/count.svg" />
 </p>
 
-## About me
+## 🚀 About Me
 
 Hi there 👋. I’m fullstack Web Developer with experience in the technology industry. Expertise in building complex and scalable web applications, from design and development to deployment and maintenance.
 
