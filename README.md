@@ -14,6 +14,13 @@ Hi there 👋. I’m fullstack Web Developer with experience in the technology i
 
 Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, ReactJS, NodeJS, PHP, MySQL, PostgreSQL. Experienced in building various types of web applications, including news websites, e-wallets, and coffee shop websites. Has extensive knowledge of web infrastructure and is committed to building innovative, efficient and user-friendly web applications.
 
+
+## 🛠 Skills
+React.JS, Node.JS, Express.JS, Laravel, GoLang
+HTML, CSS, Javascript, Bootstrap, Tailwind
+MySQL, PostgreSQL, SQLite
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://putragabrielll.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-putra/)
