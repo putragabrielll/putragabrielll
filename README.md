@@ -24,3 +24,11 @@ MySQL, PostgreSQL, SQLite
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://putragabrielll.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-putra/)
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/petershaan12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=putragabrielll&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=putragabrielll&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
