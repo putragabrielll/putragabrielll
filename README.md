@@ -11,12 +11,12 @@
   <img src="https://profile-counter.glitch.me/putragabrielll/count.svg" />
 </p>
 
-## 🚀 About Me
+### 🚀 About Me
 
 Hi there 👋. I am an experienced Fullstack Developer with expertise in building complex and scalable web applications, from design and development to deployment and maintenance. Have built various types of web applications, including news websites, e-wallets, and coffee shop websites. Has in-depth knowledge of web infrastructure and is committed to building innovative, efficient, and user-friendly web applications.
 
 
-## 🛠 Skills
+### 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
 ![express](https://img.shields.io/badge/Express.js-f7f7f7?style=flastic&logo=express&logoColor=F24E1E)
@@ -36,7 +36,7 @@ Hi there 👋. I am an experienced Fullstack Developer with expertise in buildin
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://putragabrielll.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-putra/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/putragabrielll)
