@@ -13,9 +13,7 @@
 
 ## 🚀 About Me
 
-Hi there 👋. I’m a fullstack Web Developer with experience in the technology industry. Expertise in building complex and scalable web applications, from design and development to deployment and maintenance.
-
-Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, ReactJS, NodeJS, PHP, MySQL, PostgreSQL. Experienced in building various types of web applications, including news websites, e-wallets, and coffee shop websites. Has extensive knowledge of web infrastructure and is committed to building innovative, efficient and user-friendly web applications.
+Hi there 👋. I am an experienced Fullstack Developer with expertise in building complex and scalable web applications, from design and development to deployment and maintenance. Have built various types of web applications, including news websites, e-wallets, and coffee shop websites. Has in-depth knowledge of web infrastructure and is committed to building innovative, efficient, and user-friendly web applications.
 
 
 ## 🛠 Skills
@@ -49,6 +47,6 @@ Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, Re
 </p>
 
 
-## StarDev Ranking
+### StarDev Ranking
 
 <a href="https://stardev.io/developers/putragabrielll"><img alt="Check out putragabrielll's profile on stardev.io" src="https://stardev.io/developers/putragabrielll/badge/languages/global.svg" /></a>
