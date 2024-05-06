@@ -47,3 +47,8 @@ Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, Re
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=putragabrielll&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=putragabrielll&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+
+## StarDev Ranking
+
+<a href="https://stardev.io/developers/putragabrielll"><img alt="Check out Gabriel's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
