@@ -19,9 +19,6 @@ Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, Re
 
 
 ## 🛠 Skills
-Express.JS, Laravel,
-Tailwind
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Golang](https://img.shields.io/badge/Golang-F7F7F7?style=flat-square&logo=go&logoColor=00A7D0)
 ![express](https://img.shields.io/badge/Express.js-f7f7f7?style=flastic&logo=express&logoColor=F24E1E)
