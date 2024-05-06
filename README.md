@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-# Hi, I'm Gabriel Putra! 👋
-
 <img src="https://github.com/putragabrielll/putragabrielll/blob/main/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
