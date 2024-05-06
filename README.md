@@ -51,4 +51,4 @@ Proficient in various web technologies such as HTML, CSS, GoLang, JavaScript, Re
 
 ## StarDev Ranking
 
-<a href="https://stardev.io/developers/putragabrielll"><img alt="Check out Gabriel's profile on stardev.io" src="https://stardev.io/developers/putragabrielll/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/putragabrielll"><img alt="Check out putragabrielll's profile on stardev.io" src="https://stardev.io/developers/putragabrielll/badge/languages/global.svg" /></a>
