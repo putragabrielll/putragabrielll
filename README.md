@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a>
+  <a href="https://github.com/putragabrielll">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I’m+Gabriel+Putra...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
